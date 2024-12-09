@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLNH">
+  <DataContextMoniker Name="/QLNHDataContext" />
+  <nestedChildShapes>
+    <classShape Id="1a2a773d-f408-41b2-b59b-7eb2920c02ad" absoluteBounds="2.875, 5.125, 2, 3.1170068359375">
+      <DataClassMoniker Name="/QLNHDataContext/BankCustomerChurnPrediction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dca7cf8a-0a22-4063-976a-9f71156017e3" absoluteBounds="2.89, 5.585, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

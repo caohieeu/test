@@ -1,0 +1,70 @@
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\bin\Debug\QLNH.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\obj\Debug\QLNH.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\obj\Debug\QLNH.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\bin\Debug\QLNH.exe
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\bin\Debug\QLNH.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\obj\Debug\QLNH.exe
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\obj\Debug\QLNH.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\obj\Debug\QLNH.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\bin\Debug\Accord.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\bin\Debug\Accord.dll
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\bin\Debug\Accord.MachineLearning.dll
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\bin\Debug\Accord.Math.Core.dll
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\bin\Debug\Accord.Math.dll
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\bin\Debug\Accord.Statistics.dll
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\bin\Debug\Accord.xml
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\bin\Debug\Accord.MachineLearning.xml
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\bin\Debug\Accord.Math.xml
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\bin\Debug\Accord.Math.Core.xml
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\bin\Debug\Accord.Statistics.xml
+c:\users\administrator\documents\visual studio 2013\Projects\QLNH\QLNH\obj\Debug\QLNH.QLNH1.resources
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.dll.config
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\QLNH.exe.config
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\QLNH.exe
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\QLNH.pdb
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.dll
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.MachineLearning.dll
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.Math.Core.dll
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.Math.dll
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.Statistics.dll
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.xml
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.MachineLearning.xml
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.Math.xml
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.Math.Core.xml
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.Statistics.xml
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.csproj.AssemblyReference.cache
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.Form1.resources
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.Properties.Resources.resources
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.QLNH1.resources
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.csproj.GenerateResource.cache
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.csproj.CoreCompileInputs.cache
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.csproj.Up2Date
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.exe
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.pdb
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\System.ValueTuple.dll
+D:\Document\HocAndCode\HocTap\HK7_Nam4\LTUDTM\Buoi13\QLNH\QLNH\bin\Debug\System.ValueTuple.xml
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.csproj.AssemblyReference.cache
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.Form1.resources
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.Properties.Resources.resources
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.QLNH1.resources
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.csproj.GenerateResource.cache
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.csproj.CoreCompileInputs.cache
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.exe
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.pdb
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.dll.config
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\QLNH.exe.config
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\QLNH.exe
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\QLNH.pdb
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.dll
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.MachineLearning.dll
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.Math.Core.dll
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.Math.dll
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.Statistics.dll
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\System.ValueTuple.dll
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.xml
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.MachineLearning.xml
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.Math.xml
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.Math.Core.xml
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\Accord.Statistics.xml
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\bin\Debug\System.ValueTuple.xml
+D:\WorkspaceSchool\Nam 4\PTUDTM\Buoi13\QLNH\QLNH\obj\Debug\QLNH.csproj.Up2Date
